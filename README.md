@@ -12,3 +12,5 @@ We then split the data into training and testing sets and train several classifi
 Finally, we evaluate the final model's performance using a confusion matrix, which visualizes the model's accuracy and misclassification rate. We also plot a line graph of actual vs predicted values to visualize the model's performance on the test set.
 
 The final model achieved an accuracy of over 95% on the test set, indicating that it can accurately predict the diagnosis of breast cancer. The project demonstrates how machine learning can be used to develop accurate and reliable diagnostic tools for breast cancer, which can help healthcare professionals make informed decisions about patient care.
+
+
